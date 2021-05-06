@@ -11,4 +11,5 @@ Supervised Learning is where we have input variable(X) and output variable (Y) a
  Y = f(X)
  ### Algorithms.
  - [Linear Regression](https://github.com/nikitasaxena992/Machine_Learning/blob/main/LinearRegression/Linear_Regression.ipynb)
+ - [Logistic Regression]
 ### Unsupervised Learning : 
